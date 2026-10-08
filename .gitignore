@@ -1,0 +1,33 @@
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Java
+*.class
+target/
+build/
+out/
+
+# Android
+.gradle/
+local.properties
+*.apk
+*.aab
+
+# Environment / secrets
+.env
+.env.*
+application-local.properties
+application-prod.properties
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
